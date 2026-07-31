@@ -8,7 +8,6 @@ service team. Most interested in aviation and systems software.
 - **STARS** — squawk tracking used daily by the maintenance team.
   [Case study →](https://github.com/mmoyer16/scfc-stars-case-study)
 - **StudyBuddy** — coursework tracker I'm building for my own quarters *(going public soon)*
-- Working through NeetCode and getting properly comfortable in C
 
 TypeScript · Dart/Flutter · Node · Postgres · C
 
