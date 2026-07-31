@@ -1,7 +1,7 @@
 ## Hi, I'm Matthew
 
-CSEN at Santa Clara University. I build and maintain production software for
-San Carlos Flight Center, a flight school at KSQL, where I also lead the line
+I am a Computer Science and Engineering major at Santa Clara University. I build and maintain production software for
+San Carlos Flight Center, a flight school at KSQL, where I also lead
 service team. Most interested in aviation and systems software.
 
 **Currently**
